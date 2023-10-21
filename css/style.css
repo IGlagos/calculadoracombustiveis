@@ -87,7 +87,7 @@ h4 {
 
 #content button:hover {
     background-color: black;
-    transform: rotate(5deg);
+    transform: rotate(2px);
 }
 
 #flex-content {
